@@ -1,0 +1,16 @@
+.moon{
+    position:absolute;
+    width:150px;
+    height:150px;
+    background-color: tomato;
+    border:1px solid black;
+    border-radius: 80px;
+}
+.terre{
+    position:absolute;
+    width:150px;
+    height:150px;
+    background-color: lightseagreen;
+    border:1px solid black;
+    border-radius: 80px;
+}
